@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/phili/OneDrive/Desktop/Amdari file/Stock-analysis/notebooks/mlruns/489274248232850514/models/m-048fbab59e49420b867edd41dbfa3b73/artifacts
+creation_timestamp: 1764655305347
+experiment_id: '489274248232850514'
+last_updated_timestamp: 1764655335513
+model_id: m-048fbab59e49420b867edd41dbfa3b73
+model_type: null
+name: model
+source_run_id: 90a02736a7244249b5a8a9452f64508f
+status: 2
+status_message: null

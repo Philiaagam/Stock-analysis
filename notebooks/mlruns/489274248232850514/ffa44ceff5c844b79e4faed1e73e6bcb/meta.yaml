@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/phili/OneDrive/Desktop/Amdari file/Stock-analysis/notebooks/mlruns/489274248232850514/ffa44ceff5c844b79e4faed1e73e6bcb/artifacts
+end_time: 1764655631903
+entry_point_name: ''
+experiment_id: '489274248232850514'
+lifecycle_stage: active
+run_id: ffa44ceff5c844b79e4faed1e73e6bcb
+run_name: Random Forest Model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764655627310
+status: 3
+tags: []
+user_id: phili

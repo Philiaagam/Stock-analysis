@@ -1,0 +1,10 @@
+artifact_location: file:c:/Users/phili/OneDrive/Desktop/Amdari file/Stock-analysis/notebooks/mlruns/489274248232850514/models/m-78b7388bb1fe404e8a12e7d6bbc31a68/artifacts
+creation_timestamp: 1764574770714
+experiment_id: '489274248232850514'
+last_updated_timestamp: 1764574782801
+model_id: m-78b7388bb1fe404e8a12e7d6bbc31a68
+model_type: null
+name: logistic_regression
+source_run_id: 10a62eb44f4949d2bc6c76150da0c057
+status: 2
+status_message: null

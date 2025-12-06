@@ -1,0 +1,44 @@
+artifact_path: file:c:/Users/phili/OneDrive/Desktop/Amdari file/Stock-analysis/notebooks/mlruns/489274248232850514/models/m-05650663dad0498db75b6530bf819122/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.13.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 3.6.0
+model_id: m-05650663dad0498db75b6530bf819122
+model_size_bytes: 3285
+model_uuid: m-05650663dad0498db75b6530bf819122
+prompts: null
+run_id: 7ee9f5c0ec1443e69d920eacd5643eea
+saved_input_example_info:
+  artifact_path: input_example.json
+  pandas_orient: split
+  serving_input_path: serving_input_example.json
+  type: dataframe
+signature:
+  inputs: '[{"type": "double", "name": "open", "required": true}, {"type": "double",
+    "name": "volume", "required": true}, {"type": "double", "name": "macd", "required":
+    true}, {"type": "double", "name": "macd_histogram", "required": true}, {"type":
+    "double", "name": "rsi_14", "required": true}, {"type": "double", "name": "bb_width",
+    "required": true}, {"type": "double", "name": "true_range", "required": true},
+    {"type": "double", "name": "volume_sma_20", "required": true}, {"type": "double",
+    "name": "volume_ratio", "required": true}, {"type": "double", "name": "momentum_20",
+    "required": true}, {"type": "double", "name": "volatility_20", "required": true},
+    {"type": "double", "name": "daily_return", "required": true}, {"type": "double",
+    "name": "obv", "required": true}, {"type": "double", "name": "return_lag_1", "required":
+    true}, {"type": "double", "name": "return_lag_2", "required": true}, {"type":
+    "double", "name": "return_lag_3", "required": true}]'
+  outputs: '[{"type": "long", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-12-06 22:19:51.612327'

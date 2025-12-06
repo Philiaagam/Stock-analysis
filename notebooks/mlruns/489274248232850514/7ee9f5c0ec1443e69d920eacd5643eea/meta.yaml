@@ -1,0 +1,14 @@
+artifact_uri: file:c:/Users/phili/OneDrive/Desktop/Amdari file/Stock-analysis/notebooks/mlruns/489274248232850514/7ee9f5c0ec1443e69d920eacd5643eea/artifacts
+end_time: 1765059599161
+entry_point_name: ''
+experiment_id: '489274248232850514'
+lifecycle_stage: active
+run_id: 7ee9f5c0ec1443e69d920eacd5643eea
+run_name: Logistic Regression Baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765059591535
+status: 3
+tags: []
+user_id: phili
